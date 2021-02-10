@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Micro-mouse-assignment/static/css/main.705eef9b.chunk.css",
+    "main.js": "/Micro-mouse-assignment/static/js/main.dba81142.chunk.js",
+    "main.js.map": "/Micro-mouse-assignment/static/js/main.dba81142.chunk.js.map",
+    "runtime-main.js": "/Micro-mouse-assignment/static/js/runtime-main.c2f01000.js",
+    "runtime-main.js.map": "/Micro-mouse-assignment/static/js/runtime-main.c2f01000.js.map",
+    "static/js/2.1d6f89a3.chunk.js": "/Micro-mouse-assignment/static/js/2.1d6f89a3.chunk.js",
+    "static/js/2.1d6f89a3.chunk.js.map": "/Micro-mouse-assignment/static/js/2.1d6f89a3.chunk.js.map",
+    "static/js/3.21572000.chunk.js": "/Micro-mouse-assignment/static/js/3.21572000.chunk.js",
+    "static/js/3.21572000.chunk.js.map": "/Micro-mouse-assignment/static/js/3.21572000.chunk.js.map",
+    "index.html": "/Micro-mouse-assignment/index.html",
+    "static/css/main.705eef9b.chunk.css.map": "/Micro-mouse-assignment/static/css/main.705eef9b.chunk.css.map",
+    "static/js/2.1d6f89a3.chunk.js.LICENSE.txt": "/Micro-mouse-assignment/static/js/2.1d6f89a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2f01000.js",
+    "static/js/2.1d6f89a3.chunk.js",
+    "static/css/main.705eef9b.chunk.css",
+    "static/js/main.dba81142.chunk.js"
+  ]
+}
